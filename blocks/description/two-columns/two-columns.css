@@ -1,0 +1,6 @@
+.two-columns{
+    display: flex;
+    justify-content: space-between;
+    border: 2px red;
+    flex-direction: row;
+}
