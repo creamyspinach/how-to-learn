@@ -1,5 +1,4 @@
 .footer__column-links.css{
     display: flex;
     flex-direction: column;
-    margin-bottom: 16px;
 }
