@@ -1,11 +1,11 @@
-.two-columns__brief{
-    top: 0;
-    left: 0;
-    width: 175px;
-    align-items: flex-start;
-    line-height: 1.2;
-    font-size: 18px;
-    font-weight: normal;
-    text-decoration: none;
-    color: #2f80ed;
+.two-columns__brief {
+  top: 0;
+  left: 0;
+  width: 175px;
+  align-items: flex-start;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #2f80ed;
 }

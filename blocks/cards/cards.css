@@ -1,7 +1,7 @@
-.cards{
-    display: flex;
-    width: 920px;
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-wrap: wrap;
+.cards {
+  display: flex;
+  width: 920px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
 }
