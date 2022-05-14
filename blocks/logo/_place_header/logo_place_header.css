@@ -1,6 +1,5 @@
 .logo_place_header{
-    display:block;
     position:absolute;
-    margin-top: 30px;
-    margin-left: 64px;
+    top: 30px;
+    left: 64px;
 }
