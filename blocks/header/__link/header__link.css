@@ -1,5 +1,4 @@
 .header__link {
-  display: inline-block;
-  text-decoration: none;
-  color: #2f80ed;
+  /*прописывать шрифты не стал, тк ссылка находится внутри параграфа __subtitlе, у которого те же параметры*/
+  /*общие атрибуты ссылок color и text-decoration вынес в how-to-learn/blocks/link/link.css*/
 }

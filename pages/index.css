@@ -70,3 +70,6 @@
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+@import url(../blocks/transparency/transparency.css);
+@import url(../blocks/link/link.css);
+@import url(../blocks/link/_transparency-animation/link_transparency-animation.css);

@@ -1,0 +1,7 @@
+.link_transparency-animation{
+    transition: color 400ms ease;
+    }
+    .link_transparency-animation:hover{
+    color: #2f81ed73;
+    }
+    
