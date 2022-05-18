@@ -1,8 +1,8 @@
 .header__title{
-    margin-left: 64px;
+    margin: 0 auto 0 64px;
     z-index: 3;
     width: 730px;
-    line-height: 93px;
+    line-height: 96px;
     font-size: 102px;
     word-wrap: break-word;
     font-weight: bolder;

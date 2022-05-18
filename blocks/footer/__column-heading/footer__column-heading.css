@@ -1,6 +1,10 @@
 .footer__column-heading {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #fff;
+  text-decoration: none;
   line-height: 18px;
   font-size: 18px;
   font-weight: bolder;
+  margin-top: 0;
   margin-bottom: 20px;
 }

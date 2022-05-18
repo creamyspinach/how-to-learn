@@ -1,6 +1,6 @@
 .header__subtitle {
+  margin: 0 auto;
   position: absolute;
-  display: inline-block;
   order: 0;
   width: 388px;
   line-height: 25px;
