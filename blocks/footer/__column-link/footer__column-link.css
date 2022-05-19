@@ -1,5 +1,8 @@
 .footer__column-link {
   font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
   color: #fff;
   text-decoration: none;
   display: flex;
